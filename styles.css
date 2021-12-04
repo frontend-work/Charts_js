@@ -2,13 +2,11 @@
   text-align: center;
   margin: auto;
 }
-
 .row {
   display: flex;
   margin-bottom: 150px;
   margin-top: 4opx;
 }
-
 #myChart1, #myChart2, #myChart3, #myChart4 {
   width: 560px;
   height: auto;
